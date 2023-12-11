@@ -2,7 +2,7 @@ import React from 'react';
 import { Navbar, Container } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import UcsmLogo from '../../assets/UcsmLogo.png';
-import styles from './Toolbar.module.css';  // Cambiado a Toolbar.module.css
+import styles from './Toolbar.module.css';  
 
 const Toolbar = () => {
   return (
