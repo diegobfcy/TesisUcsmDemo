@@ -18,7 +18,7 @@ const LoginForm = () => {
     <Container className="mt-5">
       <Row className="justify-content-md-center">
         <Col xs={10} md={6}>
-          <div className="login-container p-4 rounded bg-white">
+          <div className="login-container p-3 rounded bg-white">
             <h2 className="text-center mb-4">Login</h2>
             <Form onSubmit={handleSubmit}>
               <Form.Group controlId="formBasicEmail">
